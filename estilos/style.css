@@ -68,7 +68,7 @@ header nav ul li {
     list-style: none;
     margin: 2px;
     padding: 5px;
-    width: 310px;
+    width: 250px;
     background-color: #000;
     
 }
@@ -236,7 +236,7 @@ footer section#contact p {
 }
 footer section#contact #redes img {
     border-radius: 70px;
-    width: 5%;
+    width: 40px;
     padding: 5px;
 }
 
