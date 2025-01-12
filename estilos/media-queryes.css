@@ -32,9 +32,12 @@
     header nav {
         padding-bottom: 0px;
         overflow: hidden;
-        display: inline-block;
+        display: block;
         margin: 0px;
         border-bottom: none;
+    }
+    header nav ul {
+        display: inline-block;
     }
     header nav ul li {
         width: auto;
@@ -44,6 +47,7 @@
         float: left;
         border-bottom: none;
         background: none;
+        display: inline-block;
 
     } header nav ul li:hover {
         color: #000;
