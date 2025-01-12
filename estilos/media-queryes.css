@@ -64,7 +64,7 @@
         color: #000;
     }
     span {
-        display: none;
+        display: block;
         
     }
 
