@@ -56,6 +56,9 @@ header div#logo img {
     margin-top: 10px;
 }
 header nav {
+    position: absulute;
+    top: 50px;
+    transform: translate(50%, 50%)
     padding: 5px;
     display: none;
     cursor: pointer;
