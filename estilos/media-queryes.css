@@ -1,6 +1,6 @@
 @charset "Utf-8";
 
-@media screen and ( min-width: 600px ) { /*OUTROS TIPOS DE TELAS*/
+@media screen and ( min-width: 550px ) { /*OUTROS TIPOS DE TELAS*/
 
     /*header span img {
         display: none;
@@ -37,7 +37,7 @@
         border-bottom: none;
     }
     header nav ul li {
-        width: 30 auto;
+        width: auto;
         margin-bottom: 0px;
         padding: 5px;
         padding-left: 0px;
