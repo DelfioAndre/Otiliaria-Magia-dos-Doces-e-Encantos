@@ -55,7 +55,7 @@ header div#logo img {
     max-width: 25%;
     margin-top: 10px;
 }
-header nav {
+/*header nav {
     position: absulute;
     top: 50px;
     transform: translate(50%, 50%)
@@ -78,6 +78,28 @@ header nav ul li {
 header nav ul li a {
     color: #fff;
     text-decoration: none;   
+}
+*/
+header nav {
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    padding: 2px;
+    display: none;
+    border-bottom: 2.3px solid #733a2d;
+}
+
+header nav ul li {
+    padding: 3px;
+    margin-bittom: 1px;
+    background-color: #000;
+    list-style: none;
+}
+
+header nav ul li a {
+    font-size: 1.2em;
+    color: white;
+    text-decoration: none;
 }
 
 
